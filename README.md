@@ -1,7 +1,4 @@
-# Vehicle_temp-speed_control
-control the speed and temperature of the motor and the vehicle
+# Vehicle temperature speed control simulation
+control the speed of the vehicale and AC based on the temperature of the motor, the vehicle inside temperature and traffic light.
 
- * vehicle_loop-->vehicle_state && vehicle_state_input
- * vehicle_state_input-->sensor_loop
- * sensor_loop-->system_state && sensor_state_input
- * sensor_state_input-->sensor_state_output && traffic_state && set_room_tem && set_engine_temp
+![](data/semulation.gif)

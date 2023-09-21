@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 //--------------------------------------------------------------------------
-/* the traffic of the functions is as follow:
+/* the sequance of the functions is as follow:
  *
  * vehicle_loop-->vehicle_state && vehicle_state_input
  * vehicle_state_input-->sensor_loop
